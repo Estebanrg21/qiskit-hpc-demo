@@ -1,0 +1,12 @@
+[submodule "qiskit"]
+	path = qiskit
+	url = git@github.com:Qiskit/qiskit.git
+[submodule "runtime-c"]
+	path = runtime-c
+	url = git@github.com:Qiskit/qiskit-ibm-runtime-c.git
+[submodule "qrmi"]
+	path = qrmi
+	url = git@github.com:qiskit-community/qrmi.git
+[submodule "qcpp"]
+	path = qcpp
+	url = git@github.com:Qiskit/qiskit-cpp.git
