@@ -1,18 +1,16 @@
 
-# Qiskit source compilation
+# Project compilation
 > #### Note:
-> At the moment, to compile the C API it's still needed python as a build dependency.
+> At the moment, to compile the C API dependencies it's still needed python as a build dependency.
 
 ## 1. Create python virtual env
-```
-cd qiskit
-```
-then
+> Run this in the root of the project
 ```
 python3 -m venv env
 ```
 
 ## 2. Source the env
+> Run this in the root of the project
 ```
 source ./env/bin/activate
 ```
